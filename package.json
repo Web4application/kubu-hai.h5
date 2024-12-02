@@ -7,7 +7,7 @@
     "@actions/artifact": "^2.1.11",
     "@actions/core": "^1.11.1",
     "@actions/github": "^6.0.0",
-    "@octokit/request-error": "^5.0.1",
+    "@octokit/request-error": "^6.1.5",
     "http-status-messages": "^1.1.0"
   },
   "devDependencies": {
